@@ -1,0 +1,10 @@
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\bin\Debug\Camera calculator.exe.config
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\bin\Debug\Camera calculator.exe
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\bin\Debug\Camera calculator.pdb
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\obj\Debug\Camera calculator.csproj.AssemblyReference.cache
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\obj\Debug\Camera_calculator.Form1.resources
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\obj\Debug\Camera_calculator.Properties.Resources.resources
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\obj\Debug\Camera calculator.csproj.GenerateResource.cache
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\obj\Debug\Camera calculator.csproj.CoreCompileInputs.cache
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\obj\Debug\Camera calculator.exe
+C:\Users\The Time Machine\source\repos\Camera calculator\Camera calculator\obj\Debug\Camera calculator.pdb
