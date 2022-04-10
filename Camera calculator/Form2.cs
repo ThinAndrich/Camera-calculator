@@ -19,7 +19,66 @@ namespace Camera_calculator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.focalLength
+          
+        }
+
+        private void focalLengthButton_Click(object sender, EventArgs e)
+        {
+            // this.focalLengthInput;
+        }
+
+        private void squeezeFactorButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void focalReducerButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void sensorTypeButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void sensorAspectRatioButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cameraLensMountButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void verticalEFLButton_Click(object sender, EventArgs e)
+        {
+            double focalLength = 0;
+            double focalReducer = 1;
+
+            if (!Double.TryParse(this.focalLengthInput.Text, out focalLength))
+            {
+                return;
+            }
+            if (!Double.TryParse(this.focalReducerInput.Text, out focalReducer))
+            {
+                focalReducer = 1;
+                this.focalReducerInput.Text = focalReducer.ToString();
+            }
+
+            this.verticalEFLInput.Text = (focalLength * focalReducer).ToString();
+
+        }
+
+        private void horizontalEFLButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void videoAspectRatioButton_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
