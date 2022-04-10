@@ -10,21 +10,16 @@ using System.Windows.Forms;
 
 namespace Camera_calculator
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void Return_info(double fl, double fr, double sf, string lm, string st, string ar)
-        {
-
+            this.focalLength
         }
     }
 }
