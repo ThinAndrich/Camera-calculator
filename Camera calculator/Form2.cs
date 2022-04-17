@@ -73,7 +73,25 @@ namespace Camera_calculator
 
         private void horizontalEFLButton_Click(object sender, EventArgs e)
         {
+            double focalLength = 0;
+            double focalReducer = 1;
+            double squeezeFactor = 1;
 
+            if (!Double.TryParse(this.focalLengthInput.Text, out focalLength))
+            {
+                return;
+            }
+            if (!Double.TryParse(this.focalReducerInput.Text, out focalReducer))
+            {
+                focalReducer = 1;
+                this.focalReducerInput.Text = focalReducer.ToString();
+            }
+            if (!Double.TryParse(this.squeezeFactorInput.Text, out squeezeFactor))
+            {
+                squeezeFactor = 1;
+                this.squeezeFactorInput.Text = squeezeFactor.ToString();
+            }
+            this.horizontalEFLInput.Text = (focalLength * focalReducer * squeezeFactor).ToString();
         }
 
         private void videoAspectRatioButton_Click(object sender, EventArgs e)
