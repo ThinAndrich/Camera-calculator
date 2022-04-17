@@ -255,15 +255,6 @@ namespace Camera_calculator
             // sensorTypeInput
             // 
             this.sensorTypeInput.FormattingEnabled = true;
-            this.sensorTypeInput.Items.AddRange(new object[] {
-            "Medium format (48 * 36mm)",
-            "Full frame (36 * 24mm)",
-            "Super 35 (?)",
-            "APS-C [Nikon DX, Sony E](1.5x crop)",
-            "APS-C [Nikon DX, Sony E](1.6x crop)",
-            "Micro 3/4 (2x crop)",
-            "Super 16",
-            "(12.5 * 7mm)"});
             this.sensorTypeInput.Location = new System.Drawing.Point(9, 45);
             this.sensorTypeInput.Name = "sensorTypeInput";
             this.sensorTypeInput.Size = new System.Drawing.Size(121, 24);
@@ -282,8 +273,8 @@ namespace Camera_calculator
             // 
             this.sensorAspectRatioInput.FormattingEnabled = true;
             this.sensorAspectRatioInput.Items.AddRange(new object[] {
-            "16:9 -> 1.77:1(...)",
-            "4:3 -> 1.33:1(...)"});
+            "16:9",
+            "4:3"});
             this.sensorAspectRatioInput.Location = new System.Drawing.Point(10, 143);
             this.sensorAspectRatioInput.Name = "sensorAspectRatioInput";
             this.sensorAspectRatioInput.Size = new System.Drawing.Size(121, 24);

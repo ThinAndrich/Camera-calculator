@@ -1,0 +1,993 @@
+[
+    {
+        "Mount": "Samsung NX mini",
+        "Flangefocal distance": "6.95mm",
+        "Type": "Mirrorless",
+        "Format": "1\"",
+        "Production": "2014-2015",
+        "Prime lenses": "2",
+        "Zoom lenses": "1",
+        "Wide/tele converters": "",
+        "Mount converters": ""
+    },
+    {
+        "Mount": "Pentax Q-mount",
+        "Flangefocal distance": "9.2mm[1]",
+        "Type": "Mirrorless",
+        "Format": "1/2.3\" (6.17×4.55mm) / 1/1.7\"",
+        "Production": "2011–2019",
+        "Prime lenses": "5",
+        "Zoom lenses": "3",
+        "Wide/tele converters": "0",
+        "Mount converters": "1",
+        "Comments": ""
+    },
+    {
+        "Mount": "M58×0.75mm mount",
+        "Flangefocal distance": "12mm",
+        "Type": "Industrial",
+        "Format": "24×36mm",
+        "Production": "Industrial area and line scan cameras"
+    },
+    {
+        "Mount": "D-mount",
+        "Flangefocal distance": "12.29mm",
+        "Type": "cine",
+        "Format": "8mm",
+        "Production": "(8mm movie cameras)"
+    },
+    {
+        "Mount": "CS-mount",
+        "Flangefocal distance": "12.526mm[2][3][4]",
+        "Type": "TV",
+        "Format": "1/4\", 1/3\", 1/2\"",
+        "Production": "(surveillance cameras)"
+    },
+    {
+        "Mount": "Nikon Z-mount",
+        "Flangefocal distance": "16mm",
+        "Type": "Mirrorless",
+        "Format": "24×36mm",
+        "Production": "2018–",
+        "Prime lenses": "10",
+        "Zoom lenses": "7",
+        "Wide/tele converters": "1",
+        "Mount converters": ""
+    },
+    {
+        "Mount": "APS-C (DX)",
+        "Flangefocal distance": "2019–",
+        "Type": "2",
+        "Format": "Can use any of the 24x36 mm lenses and the FTZ mount adaptor."
+    },
+    {
+        "Mount": "DJI DL-mount",
+        "Flangefocal distance": "16.84[5]",
+        "Type": "Mirrorless",
+        "Format": "Super 35",
+        "Production": "2017–",
+        "Prime lenses": "4",
+        "Zoom lenses": "0",
+        "Wide/tele converters": ""
+    },
+    {
+        "Mount": "Nikon 1-mount",
+        "Flangefocal distance": "17.00mm[6]",
+        "Type": "Mirrorless",
+        "Format": "CX",
+        "Production": "2011–2018",
+        "Prime lenses": "3",
+        "Zoom lenses": "8",
+        "Wide/tele converters": "1",
+        "Mount converters": ""
+    },
+    {
+        "Mount": "C-mount",
+        "Flangefocal distance": "17.526mm[7]",
+        "Type": "cine / TV",
+        "Format": "8mm, 16mm, 1/3\", 1/2\", 2/3\", 1\", 4/3\"",
+        "Production": "~1926–",
+        "Prime lenses": "(Bolex, Eclair and Bell &amp; Howell)"
+    },
+    {
+        "Mount": "Fujifilm X-mount",
+        "Flangefocal distance": "17.7mm",
+        "Type": "Mirrorless",
+        "Format": "APS-C",
+        "Production": "2012–",
+        "Prime lenses": "12",
+        "Zoom lenses": "11",
+        "Wide/tele converters": "2",
+        "Mount converters": "1[8]",
+        "Comments": ""
+    },
+    {
+        "Mount": "Canon EF-M-mount",
+        "Flangefocal distance": "18.00mm",
+        "Type": "Mirrorless",
+        "Format": "APS-C",
+        "Production": "2012–",
+        "Prime lenses": "3",
+        "Zoom lenses": "5",
+        "Wide/tele converters": "0",
+        "Mount converters": "1",
+        "Comments": ""
+    },
+    {
+        "Mount": "Sony E-mount",
+        "Flangefocal distance": "18.00mm",
+        "Type": "Mirrorless",
+        "Format": "APS-C",
+        "Production": "2010–",
+        "Prime lenses": "6",
+        "Zoom lenses": "14",
+        "Wide/tele converters": "4",
+        "Mount converters": "2",
+        "Comments": "Lens count doesn't include 3rd party products. All FE lenses (see below) can also be used on APS-CE-mount cameras."
+    },
+    {
+        "Mount": "24×36mm (FE)",
+        "Flangefocal distance": "2013–",
+        "Type": "22",
+        "Format": "17",
+        "Production": "4",
+        "Prime lenses": "3",
+        "Zoom lenses": "Lens count doesn't include 3rd party products."
+    },
+    {
+        "Mount": "Sony FZ-mount",
+        "Flangefocal distance": "19.00mm",
+        "Type": "cine",
+        "Format": "Super35",
+        "Production": "2011–",
+        "Prime lenses": "0",
+        "Zoom lenses": "2",
+        "Wide/tele converters": "0",
+        "Mount converters": "3",
+        "Comments": ""
+    },
+    {
+        "Mount": "24×36mm",
+        "Flangefocal distance": "2015–",
+        "Type": "1",
+        "Format": "2",
+        "Production": ""
+    },
+    {
+        "Mount": "Micro FourThirds System",
+        "Flangefocal distance": "19.25mm",
+        "Type": "Mirrorless",
+        "Format": "4/3\"",
+        "Production": "2008–",
+        "Prime lenses": "37",
+        "Zoom lenses": "28",
+        "Wide/tele converters": "1",
+        "Mount converters": "1",
+        "Comments": ""
+    },
+    {
+        "Mount": "Hasselblad XCD mount",
+        "Flangefocal distance": "18.14mm (+0.05/-0.00)",
+        "Type": "Mirrorless",
+        "Format": "Medium Format (127) 43.8×32.9mm",
+        "Production": "2017–",
+        "Prime lenses": "8",
+        "Zoom lenses": "1",
+        "Wide/tele converters": "for Hasselblad X System"
+    },
+    {
+        "Mount": "Canon RF mount",
+        "Flangefocal distance": "20.00mm",
+        "Type": "Mirrorless",
+        "Format": "24×36mm",
+        "Production": "2018–",
+        "Prime lenses": "12",
+        "Zoom lenses": "11",
+        "Wide/tele converters": "3",
+        "Mount converters": ""
+    },
+    {
+        "Mount": "Leica L-Mount (formerly CL-mount)",
+        "Flangefocal distance": "20.00mm",
+        "Type": "Mirrorless",
+        "Format": "24×36mm, APS-C",
+        "Production": "2014–",
+        "Prime lenses": "3",
+        "Zoom lenses": "3",
+        "Wide/tele converters": ""
+    },
+    {
+        "Mount": "JVC 1/3\" bayonet mount",
+        "Flangefocal distance": "25.00mm",
+        "Type": "TV",
+        "Format": "1/3\" 3-CCD (5.24×2.94mm)",
+        "Production": ""
+    },
+    {
+        "Mount": "Samsung NX-mount",
+        "Flangefocal distance": "25.50mm",
+        "Type": "Mirrorless",
+        "Format": "APS-C",
+        "Production": "2010–2015",
+        "Prime lenses": "8",
+        "Zoom lenses": "8",
+        "Wide/tele converters": ""
+    },
+    {
+        "Mount": "Fujifilm G-mount",
+        "Flangefocal distance": "26.7mm",
+        "Type": "Mirrorless",
+        "Format": "Medium Format (127) 43.8×32.9mm",
+        "Production": "2017–",
+        "Prime lenses": "7",
+        "Zoom lenses": "2",
+        "Wide/tele converters": "1",
+        "Mount converters": "for Fujifilm GFX series cameras"
+    },
+    {
+        "Mount": "Pentax Auto 110",
+        "Flangefocal distance": "27.00mm",
+        "Type": "SLR",
+        "Format": "13×17mm",
+        "Production": "1978–1985",
+        "Prime lenses": "5",
+        "Zoom lenses": "1",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": ""
+    },
+    {
+        "Mount": "RED ONE interchangeable mount",
+        "Flangefocal distance": "27.30mm",
+        "Type": "cine",
+        "Format": ""
+    },
+    {
+        "Mount": "Leica M-mount",
+        "Flangefocal distance": "27.80mm[8]",
+        "Type": "Mirrorless",
+        "Format": "24×36mm",
+        "Production": "1954–",
+        "Prime lenses": "aka Voigtländer VM-mount, Epson EM-mount, Zeiss ZM-mount as well as Konica KM-mount (Hexar RF) and Minolta M-mount (CL/CLE)"
+    },
+    {
+        "Mount": "Nikonos",
+        "Flangefocal distance": "28.00mm[9]",
+        "Type": "underwater",
+        "Format": "24x36mm",
+        "Production": "1963-2001",
+        "Prime lenses": "6",
+        "Zoom lenses": "0",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": "this is the underwater scale focusing camera"
+    },
+    {
+        "Mount": "M39×26tpi mount",
+        "Flangefocal distance": "28.80mm",
+        "Type": "Mirrorless",
+        "Format": "24×36mm",
+        "Production": "Leica M39×26tpi aka LTM (Leica Thread Mount) aka L39 (not to be confused with M39×1)"
+    },
+    {
+        "Mount": "M39×1/28.8 mount",
+        "Flangefocal distance": "28.80mm[10]",
+        "Type": "Mirrorless",
+        "Format": "24×36mm",
+        "Production": "1948-1978",
+        "Prime lenses": "Zorki M39×1/28.8 for Zorki cameras (not to be confused with M39×1 and M39x26tpi)"
+    },
+    {
+        "Mount": "Contax G-mount",
+        "Flangefocal distance": "29.00mm",
+        "Type": "Mirrorless",
+        "Format": "24×36mm",
+        "Production": "1994–2005",
+        "Prime lenses": "6",
+        "Zoom lenses": "1",
+        "Wide/tele converters": "0",
+        "Mount converters": "1",
+        "Comments": ""
+    },
+    {
+        "Mount": "Olympus PEN F (film)",
+        "Flangefocal distance": "28.95mm",
+        "Type": "SLR",
+        "Format": "18×24mm",
+        "Production": "1963–1972",
+        "Prime lenses": "16",
+        "Zoom lenses": "2",
+        "Wide/tele converters": ""
+    },
+    {
+        "Mount": "Hasselblad XPan",
+        "Flangefocal distance": "34.27mm",
+        "Type": "Mirrorless",
+        "Format": "24×36mm &amp; 24×65mm",
+        "Production": "1998–2003",
+        "Prime lenses": "3",
+        "Zoom lenses": "0",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": "Identical to Fujifilm TX series cameras and mount"
+    },
+    {
+        "Mount": "Contax RF-mount",
+        "Flangefocal distance": "34.85mm",
+        "Type": "Mirrorless",
+        "Format": "24×36mm",
+        "Production": ""
+    },
+    {
+        "Mount": "Nikon S-mount",
+        "Flangefocal distance": "34.85mm",
+        "Type": "Mirrorless",
+        "Format": "24×36mm",
+        "Production": "1947–2005",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "1/2\" TV bayonet mount",
+        "Flangefocal distance": "35.74mm",
+        "Type": "TV",
+        "Format": "1/2\" 3-CCD",
+        "Production": "JVC, Hitachi, Panasonic, others, but not Sony"
+    },
+    {
+        "Mount": "Minolta V-mount",
+        "Flangefocal distance": "36.00mm",
+        "Type": "SLR",
+        "Format": "APS-H",
+        "Production": "1996–1999",
+        "Prime lenses": "3",
+        "Zoom lenses": "5",
+        "Wide/tele converters": "0",
+        "Mount converters": "1",
+        "Comments": "Vectis S-1, Vectis S-100,Dimâge RD3000"
+    },
+    {
+        "Mount": "Sony 1/2\" TV bayonet mount",
+        "Flangefocal distance": "38.00mm",
+        "Type": "TV",
+        "Format": "1/2\" 3-CCD",
+        "Production": ""
+    },
+    {
+        "Mount": "Olympus Four ThirdsSystem",
+        "Flangefocal distance": "38.67mm",
+        "Type": "SLR",
+        "Format": "4/3\"",
+        "Production": "2003–2017",
+        "Prime lenses": "12",
+        "Zoom lenses": "30",
+        "Wide/tele converters": "2",
+        "Mount converters": ""
+    },
+    {
+        "Mount": "Aaton mount",
+        "Flangefocal distance": "40.00mm",
+        "Type": "cine",
+        "Format": "16mm/S16",
+        "Production": ""
+    },
+    {
+        "Mount": "Panavision SP70-mount",
+        "Flangefocal distance": "40.00mm",
+        "Type": "cine",
+        "Format": "2018–",
+        "Production": "35mm &amp; 65mm"
+    },
+    {
+        "Mount": "Konica F-mount",
+        "Flangefocal distance": "40.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1960–1965",
+        "Prime lenses": "17",
+        "Zoom lenses": "0",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": ""
+    },
+    {
+        "Mount": "Konica AR-mount",
+        "Flangefocal distance": "40.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1965–1988",
+        "Prime lenses": "36",
+        "Zoom lenses": "16",
+        "Wide/tele converters": "1",
+        "Mount converters": "0",
+        "Comments": ""
+    },
+    {
+        "Mount": "Canon FL-mount",
+        "Flangefocal distance": "42.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1964–1971",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Canon FD-mount",
+        "Flangefocal distance": "42.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1971–1990",
+        "Prime lenses": "107",
+        "Zoom lenses": "34",
+        "Wide/tele converters": ""
+    },
+    {
+        "Mount": "Start (Soviet SLR)",
+        "Flangefocal distance": "42.00mm",
+        "Type": "SLR",
+        "Format": "1958–1964",
+        "Production": ""
+    },
+    {
+        "Mount": "Minolta SR-mount",
+        "Flangefocal distance": "43.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1958–2001",
+        "Prime lenses": "6",
+        "Zoom lenses": ""
+    },
+    {
+        "Mount": "Fujica X-mount",
+        "Flangefocal distance": "43.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1980–1985",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Pentaflex (16mm cameras)",
+        "Flangefocal distance": "44.00mm",
+        "Type": "cine",
+        "Format": ""
+    },
+    {
+        "Mount": "Canon EF-mount",
+        "Flangefocal distance": "44.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm / APS-H / APS-C",
+        "Production": "1987–",
+        "Prime lenses": "47",
+        "Zoom lenses": "64",
+        "Wide/tele converters": ""
+    },
+    {
+        "Mount": "Canon EF-S-mount",
+        "Flangefocal distance": "44.00mm",
+        "Type": "SLR",
+        "Format": "APS-C",
+        "Production": "2003–",
+        "Prime lenses": "2",
+        "Zoom lenses": "9",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": ""
+    },
+    {
+        "Mount": "Praktica B-mount",
+        "Flangefocal distance": "44.40mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1978–1990",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Sigma SA-mount",
+        "Flangefocal distance": "44.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm / APS-C",
+        "Production": "1992–",
+        "Prime lenses": "14",
+        "Zoom lenses": "19",
+        "Wide/tele converters": "2",
+        "Mount converters": "4",
+        "Comments": ""
+    },
+    {
+        "Mount": "Arri LPL",
+        "Flangefocal distance": "44.00mm",
+        "Type": "cine",
+        "Format": "25.54x36.70mm",
+        "Production": "2018-",
+        "Prime lenses": "",
+        "Zoom lenses": "",
+        "Wide/tele converters": "",
+        "Mount converters": "",
+        "Comments": "for Arri Alexa LF"
+    },
+    {
+        "Mount": "Minolta/KonicaMinolta/Sony A-mount",
+        "Flangefocal distance": "44.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1985–",
+        "Prime lenses": "42+0+17",
+        "Zoom lenses": "50+2+13",
+        "Wide/tele converters": "6+0+2",
+        "Mount converters": "2+0+0",
+        "Comments": ""
+    },
+    {
+        "Mount": "APS-C",
+        "Flangefocal distance": "2004–",
+        "Type": "0+0+3",
+        "Format": "0+3+13",
+        "Production": "0+0+0",
+        "Prime lenses": "0+0+0",
+        "Zoom lenses": ""
+    },
+    {
+        "Mount": "Rollei QBM",
+        "Flangefocal distance": "44.50mm[11]",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1970–",
+        "Prime lenses": "Rollei, Voigtländer"
+    },
+    {
+        "Mount": "Samsung Kenox mount",
+        "Flangefocal distance": "44.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1997–2002",
+        "Prime lenses": "1",
+        "Zoom lenses": "2 (3?)",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": "Although designed in 1990s, mount is manual-focus only; lenses mount and lock on a slightly modifiedMinolta A-mount adapters"
+    },
+    {
+        "Mount": "Exakta",
+        "Flangefocal distance": "44.7mm[12]",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1936–1969",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "M39x1",
+        "Flangefocal distance": "45.20mm[13]",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1952–1968",
+        "Prime lenses": "Early Russian SLRs (Zenit) (not to be confusedwith M39×26tpi and M39×1/28,8)"
+    },
+    {
+        "Mount": "M42×1",
+        "Flangefocal distance": "45.46mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1949–",
+        "Prime lenses": "Pentacon, Pentax, Contax S, Praktica, Zeiss ZS, Zenit (not to be confused with T-mount, which is M42×0.75)"
+    },
+    {
+        "Mount": "Pentax K-mount",
+        "Flangefocal distance": "45.46mm",
+        "Type": "SLR / Mirrorless",
+        "Format": "24×36mm / APS-C",
+        "Production": "1975–",
+        "Prime lenses": "147[14]",
+        "Zoom lenses": "108",
+        "Wide/tele converters": "8",
+        "Mount converters": "3",
+        "Comments": "Used also by some Samsung, Ricoh, Chinon, Agfa, Vivitar and KMZ (Zenit) cameras. Lens count only forPentax-branded lenses."
+    },
+    {
+        "Mount": "Contax C/Y-mount",
+        "Flangefocal distance": "45.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1974–2005",
+        "Prime lenses": "24",
+        "Zoom lenses": "5",
+        "Wide/tele converters": "3",
+        "Mount converters": "Used by some Contax and Yashica SLR cameras"
+    },
+    {
+        "Mount": "Petri Bayonet",
+        "Flangefocal distance": "45.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": ""
+    },
+    {
+        "Mount": "Mamiya Z",
+        "Flangefocal distance": "45.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1980–",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Kodak Retina DKL-mount",
+        "Flangefocal distance": "45.7mm",
+        "Type": "SLR / Mirrorless",
+        "Format": "24×36mm / 28×28mm",
+        "Production": "1958–1977",
+        "Prime lenses": "12+6",
+        "Zoom lenses": "0",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": "DKL variants used by Retina Reflex S (034), Retina Reflex III (041), Retina ReflexIV (051, 051/N), Instamatic Reflex (062), Retina IIIS"
+    },
+    {
+        "Mount": "Voigtländer Bessamatic DKL-mount",
+        "Flangefocal distance": "45.7mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1958–1967",
+        "Prime lenses": "11+2",
+        "Zoom lenses": "1",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": "DKL variants used by Bessamatic, Bessamatic deLuxe, Bessamatic m, Bessamatic CS, Ultramatic, Ultramatic CS"
+    },
+    {
+        "Mount": "Braun Paxette Reflex DKL-mount",
+        "Flangefocal distance": "45.7mm",
+        "Type": "SLR / Mirrorless",
+        "Format": "24×36mm",
+        "Production": "DKL variant used by Paxette Reflex Automatic, Paxette Reflex Automatic II, Tower 33 Reflex, Tower 34Reflex; Balda Baldamatic III; Witt Iloca Electric / Graflex Graphic 35 Electric; Wirgin Edixa Electronica / Revue EdixaElectronica"
+    },
+    {
+        "Mount": "Voigtländer Vitessa T DKL-mount",
+        "Flangefocal distance": "45.7mm",
+        "Type": "Mirrorless",
+        "Format": "24×36mm",
+        "Production": "4+?",
+        "Prime lenses": "0",
+        "Zoom lenses": "0",
+        "Wide/tele converters": "0",
+        "Mount converters": "DKL variant used by Voigtländer Vitessa T; Braun Colorette (Super) II, Colorette (Super)IIB, Colorette (Super) IIL, Colorette (Super) IIBL; Wittnauer Continental, Wittnauer Professional"
+    },
+    {
+        "Mount": "Yashica MA-mount",
+        "Flangefocal distance": "45.80mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1",
+        "Prime lenses": "(measured); 230AF etc."
+    },
+    {
+        "Mount": "Olympus OM-mount",
+        "Flangefocal distance": "46.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1972–2002",
+        "Prime lenses": "38",
+        "Zoom lenses": "14",
+        "Wide/tele converters": ""
+    },
+    {
+        "Mount": "Nikon F-mount",
+        "Flangefocal distance": "46.50mm",
+        "Type": "SLR",
+        "Format": "24×36mm / APS-C",
+        "Production": "1959–",
+        "Prime lenses": "213",
+        "Zoom lenses": "117",
+        "Wide/tele converters": "Used by some Kiev F-mount cameras.Only Nikon manufactured lenses counted. Nikon claims that there is over 400 Nikkor lens modelsmanufactured.[15]"
+    },
+    {
+        "Mount": "Leica R-mount",
+        "Flangefocal distance": "47.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1964–2009",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "KMZ Zenit DKL-mount",
+        "Flangefocal distance": "47.58mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1964–1968",
+        "Prime lenses": "5",
+        "Zoom lenses": "1",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": "Zenit/Зенит 4/5/6 \"Байонет Ц\", an unofficial DKL-mount variant"
+    },
+    {
+        "Mount": "B4-mount",
+        "Flangefocal distance": "48.00mm",
+        "Type": "TV",
+        "Format": "2/3\" 3-CCD (9.6×5.4mm)",
+        "Production": "1992–",
+        "Prime lenses": "Mount was in use since at least 1978, wasn't officially standardized until 1992."
+    },
+    {
+        "Mount": "Contax N",
+        "Flangefocal distance": "48.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "2000–2005",
+        "Prime lenses": "4",
+        "Zoom lenses": "5",
+        "Wide/tele converters": "0",
+        "Mount converters": "1",
+        "Comments": ""
+    },
+    {
+        "Mount": "Tamron Adaptall/Adaptall-2",
+        "Flangefocal distance": "50.7mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1973-2006",
+        "Prime lenses": "14",
+        "Zoom lenses": "29",
+        "Wide/tele converters": "3",
+        "Mount converters": "26",
+        "Comments": "No camera uses Adaptall lenses natively, intended to be used with mount adapters. Many lenses haverevisions, only original optical formulas are counted."
+    },
+    {
+        "Mount": "Arri STD",
+        "Flangefocal distance": "52.00mm",
+        "Type": "cine",
+        "Format": ""
+    },
+    {
+        "Mount": "Arri B",
+        "Flangefocal distance": "52.00mm",
+        "Type": "cine",
+        "Format": ""
+    },
+    {
+        "Mount": "Arri PL",
+        "Flangefocal distance": "52.00mm",
+        "Type": "cine",
+        "Format": ""
+    },
+    {
+        "Mount": "Leica S-mount",
+        "Flangefocal distance": "53.00mm",
+        "Type": "SLR",
+        "Format": "45×30mm",
+        "Production": "1996–",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Mini T-mount",
+        "Flangefocal distance": "55.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1957–1962",
+        "Prime lenses": "Taisei, M37×0.75"
+    },
+    {
+        "Mount": "T-mount",
+        "Flangefocal distance": "55.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "1962–",
+        "Prime lenses": "Tamron T-400, M42×0.75 (not to be confused with M42×1)"
+    },
+    {
+        "Mount": "YS mount",
+        "Flangefocal distance": "55.00mm",
+        "Type": "SLR",
+        "Format": "24×36mm",
+        "Production": "–1969",
+        "Prime lenses": "Sigma, Upsilon, Accura, Polaris, Sun, Aetna, Beroflex, Petri, Raynox, N.P.S., Formula, Dionar,Universal, Soligor, Yashica, Spiratone. M42×0.75 (not to be confused with M42×1) Same as T-mount butwith aperture coupling"
+    },
+    {
+        "Mount": "Mamiya 6",
+        "Flangefocal distance": "56.20mm",
+        "Type": "Mirrorless",
+        "Format": "6×6cm",
+        "Production": "1989–1995",
+        "Prime lenses": "3",
+        "Zoom lenses": "0",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": "Rangefinder camera system, flange focal distance might not be precise.[16]"
+    },
+    {
+        "Mount": "Panavision PV-mount",
+        "Flangefocal distance": "57.15mm",
+        "Type": "cine",
+        "Format": "1972–",
+        "Production": "35mm &amp; 16mm"
+    },
+    {
+        "Mount": "Mamiya 7",
+        "Flangefocal distance": "59.00mm",
+        "Type": "Mirrorless",
+        "Format": "6×7cm",
+        "Production": "1995–2014",
+        "Prime lenses": "6",
+        "Zoom lenses": "0",
+        "Wide/tele converters": "0",
+        "Mount converters": "0",
+        "Comments": "Rangefinder camera system"
+    },
+    {
+        "Mount": "OCT-19",
+        "Flangefocal distance": "61.00mm",
+        "Type": "cine",
+        "Format": ""
+    },
+    {
+        "Mount": "Hasselblad H-mount",
+        "Flangefocal distance": "61.63mm",
+        "Type": "SLR",
+        "Format": "6×4.5cm",
+        "Production": "2002–",
+        "Prime lenses": "for Hasselblad H System"
+    },
+    {
+        "Mount": "Mamiya 645",
+        "Flangefocal distance": "63.30mm",
+        "Type": "SLR",
+        "Format": "6×4.5cm",
+        "Production": "1975–",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Novoflex[de] A-mount",
+        "Flangefocal distance": "63.3mm",
+        "Type": "SLR",
+        "Format": "(measured) \"A\"-type adapters for follow-focus system"
+    },
+    {
+        "Mount": "Contax 645",
+        "Flangefocal distance": "64.00mm",
+        "Type": "SLR",
+        "Format": "6×4.5cm",
+        "Production": "1999–",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Zenza Bronica ETR",
+        "Flangefocal distance": "69.00mm",
+        "Type": "SLR",
+        "Format": "6×4.5cm",
+        "Production": "1976–2004",
+        "Prime lenses": "17",
+        "Zoom lenses": "2",
+        "Wide/tele converters": ""
+    },
+    {
+        "Mount": "Pentax 645",
+        "Flangefocal distance": "70.87mm",
+        "Type": "SLR",
+        "Format": "6×4.5cm",
+        "Production": "1984–",
+        "Prime lenses": "25",
+        "Zoom lenses": "8",
+        "Wide/tele converters": "2",
+        "Mount converters": "2",
+        "Comments": ""
+    },
+    {
+        "Mount": "Rollei SLX",
+        "Flangefocal distance": "74.00mm",
+        "Type": "SLR",
+        "Format": "6×6cm",
+        "Production": "1976–2005",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Pentacon Six",
+        "Flangefocal distance": "74.1mm",
+        "Type": "SLR",
+        "Format": "6×6cm",
+        "Production": "1956–1992",
+        "Prime lenses": "Used also by Exakta 66 and Kiev 60 series cameras"
+    },
+    {
+        "Mount": "Hasselblad V-mount",
+        "Flangefocal distance": "74.90mm",
+        "Type": "SLR",
+        "Format": "6×6cm",
+        "Production": "1957–2013",
+        "Prime lenses": "for Hasselblad V system"
+    },
+    {
+        "Mount": "Kowa Six/Super 66",
+        "Flangefocal distance": "79.00mm",
+        "Type": "SLR",
+        "Format": "6×6cm",
+        "Production": "1968–1974",
+        "Prime lenses": "9",
+        "Zoom lenses": "0",
+        "Wide/tele converters": ""
+    },
+    {
+        "Mount": "Hasselblad 1000F &amp; 1600F",
+        "Flangefocal distance": "82.10mm",
+        "Type": "SLR",
+        "Format": "6×6cm",
+        "Production": "1948–1957",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Salyut/Kiev mount",
+        "Flangefocal distance": "82.10mm",
+        "Type": "SLR",
+        "Format": "6×6cm",
+        "Production": "1972–1980",
+        "Prime lenses": "Used by Salyut-S/Салют-C, Zenit/Zenith-80,Kiev 88 cameras"
+    },
+    {
+        "Mount": "Pentax 6×7",
+        "Flangefocal distance": "84.95mm[17] or85.00mm",
+        "Type": "SLR",
+        "Format": "6×7cm",
+        "Production": "1969–1999",
+        "Prime lenses": "25",
+        "Zoom lenses": "2",
+        "Wide/tele converters": "3",
+        "Mount converters": ""
+    },
+    {
+        "Mount": "Zenza Bronica SQ",
+        "Flangefocal distance": "85.00mm",
+        "Type": "SLR",
+        "Format": "6×6cm",
+        "Production": "1980–2003",
+        "Prime lenses": "14",
+        "Zoom lenses": ""
+    },
+    {
+        "Mount": "Zenza Bronica GS",
+        "Flangefocal distance": "85.00mm",
+        "Type": "SLR",
+        "Format": "6×7cm",
+        "Production": "1983–2002",
+        "Prime lenses": "9",
+        "Zoom lenses": "0",
+        "Wide/tele converters": "2",
+        "Mount converters": ""
+    },
+    {
+        "Mount": "Zenza Bronica S2A",
+        "Flangefocal distance": "101.70mm",
+        "Type": "SLR",
+        "Format": "6×6cm",
+        "Production": "1959–1980",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Rollei SL66",
+        "Flangefocal distance": "102.80mm",
+        "Type": "SLR",
+        "Format": "6×6cm",
+        "Production": "1966–1992",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Mamiya RZ",
+        "Flangefocal distance": "105.00mm",
+        "Type": "SLR",
+        "Format": "6×7cm",
+        "Production": "1982–",
+        "Prime lenses": ""
+    },
+    {
+        "Mount": "Mamiya RB",
+        "Flangefocal distance": "112.00mm",
+        "Type": "SLR",
+        "Format": "6×7cm",
+        "Production": "1970–",
+        "Prime lenses": ""
+    }
+]
+
+String Mount;
+double FlangefocalDistance;
+String Type;
+String Format;
+String Year;
+String PrimeLenses;
+String ZoomLenses;
+String WideTeleConverters;
+String MountConverters;

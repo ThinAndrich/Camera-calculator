@@ -1,0 +1,12 @@
+1 Full Frame
+1.3 APS-H
+1.5 APS-C/S35
+1.6 APS-C (Canon)
+2 MFT
+2.081 GH5 Open Gate
+2.34 GH4 C4K
+2.49 GH4 4K UHD
+2.08 GH4 1080P
+0.5 Medium Format
+2.88 BMPCC
+1.85 BlackMagic Ursa
