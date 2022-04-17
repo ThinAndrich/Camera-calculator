@@ -406,11 +406,12 @@ namespace Camera_calculator
             // errorMSG
             // 
             this.errorMSG.AutoSize = true;
-            this.errorMSG.Location = new System.Drawing.Point(378, 627);
+            this.errorMSG.Location = new System.Drawing.Point(308, 509);
             this.errorMSG.Name = "errorMSG";
-            this.errorMSG.Size = new System.Drawing.Size(54, 17);
+            this.errorMSG.Size = new System.Drawing.Size(655, 17);
             this.errorMSG.TabIndex = 15;
-            this.errorMSG.Text = "label10";
+            this.errorMSG.Text = "Če klikneš calculate pa nima dovolj podatkov izpiše katere vse podatke moraš vnes" +
+    "t da lahko izračuna.";
             // 
             // Form2
             // 
